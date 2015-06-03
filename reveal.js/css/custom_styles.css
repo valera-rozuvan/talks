@@ -1,0 +1,59 @@
+img.full_width_img {
+    width: 100%;
+}
+
+img.sixty_width_img {
+    width: 60%;
+}
+
+img.fifty_width_img {
+    width: 50%;
+}
+
+img.fourty_width_img {
+    width: 40%;
+}
+
+img.full_height_img {
+    height: 100%;
+}
+
+div.vk_ans span {
+    font-size: 48px;
+}
+
+span.lr_dct_ph, span.lr_dct_ph_op {
+    font-size: 38px;
+}
+
+span.lr_dct_ph {
+    color: DeepSkyBlue;
+}
+
+span.lr_dct_ph_op {
+    color: yellow;
+}
+
+span.ital {
+    font-style: italic;
+}
+
+span.underline {
+    text-decoration: underline;
+}
+
+span.yellow {
+    color: yellow;
+}
+
+span.green {
+    color: SpringGreen;
+}
+
+span.orange {
+    color: Orange;
+}
+
+span.DodgerBlue {
+    color: DodgerBlue;
+}
