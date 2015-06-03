@@ -24,7 +24,7 @@ See [sample-apps.md](sample-apps.md).
 
 ## License
 
-This project `eb-frameworks-overview` is licensed under the GNU GENERAL
+This project `web-frameworks-overview` is licensed under the GNU GENERAL
 PUBLIC LICENSE Version 2, June 1991.
 
 See [LICENSE](LICENSE) file for more information.
