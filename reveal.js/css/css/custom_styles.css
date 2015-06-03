@@ -1,0 +1,80 @@
+div.lr_dct_ent_ph span.lr_dct_ph {
+  color: green;
+}
+
+div.lr_dct_ent_ph span.lr_dct_ph_op {
+  color: DodgerBlue;
+}
+
+div.vk_ans span {
+  font-size: 62px;
+}
+
+span.ital {
+  font-style: italic;
+  color: yellow;
+}
+
+p span.ital {
+  font-size: 38px;
+}
+
+li span.ital {
+  font-size: 38px;
+}
+
+img.full_width_img {
+  width: 100%;
+}
+
+img.full_height_img {
+  height: 100%;
+}
+
+img.sixty_width_img {
+  width: 60%;
+}
+
+img.fifty_width_img {
+  width: 50%;
+}
+
+img.fourty_width_img {
+  width: 40%;
+}
+
+pre.full {
+  width: 100%;
+}
+
+pre.full code.full {
+  width: 100%;
+}
+
+span.underline {
+  text-decoration: underline;
+}
+
+span.italic {
+  font-style: italic;
+}
+
+span.green {
+  color: green;
+}
+
+span.yellow {
+  color: yellow;
+}
+
+span.DodgerBlue {
+  color: DodgerBlue;
+}
+
+span.orange {
+  color: #FF6600;
+}
+
+span.pink {
+  color: #FF33CC;
+}
