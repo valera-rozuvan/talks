@@ -14,7 +14,7 @@ A browser should open, showing the presentation. If not, please navigate to
 
     http://localhost:8000/
 
-## Sample applications for JS web frameworks from presentations
+## Sample applications for JS web frameworks from presentation
 
 See [sample-apps.md](sample-apps.md).
 
