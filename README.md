@@ -22,9 +22,20 @@ See [sample-apps.md](sample-apps.md).
 
 2015 @ Valera Rozuvan | http://valera.rozuvan.net/
 
-## License
+---
 
-This project `web-frameworks-overview` is licensed under the GNU GENERAL
-PUBLIC LICENSE Version 2, June 1991.
+## license
 
-See [LICENSE](LICENSE) file for more information.
+The project `'talks'` is licensed under the CC0-1.0.
+
+See [LICENSE](./LICENSE) for more details.
+
+The latest source code can be retrieved from one of several mirrors:
+
+1. [github.com/valera-rozuvan/talks](https://github.com/valera-rozuvan/talks)
+
+2. [gitlab.com/valera-rozuvan/talks](https://gitlab.com/valera-rozuvan/talks)
+
+3. [git.rozuvan.net/talks](https://git.rozuvan.net/talks)
+
+Copyright (c) 2015-2022 [Valera Rozuvan](https://valera.rozuvan.net/)
