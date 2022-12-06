@@ -1,26 +1,10 @@
-# web-frameworks-overview
+# talks
 
-## How to run the presentation
+the talks I gave at various times
 
-To launch the lecture, please do:
+## about
 
-    $ cd reveal.js
-    $ sudo npm install -g grunt
-    $ sudo npm install -g grunt-cli
-    $ npm install
-    $ grunt serve
-
-A browser should open, showing the presentation. If not, please navigate to
-
-    http://localhost:8000/
-
-## Sample applications for JS web frameworks from presentation
-
-See [sample-apps.md](sample-apps.md).
-
-## Author
-
-2015 @ Valera Rozuvan | http://valera.rozuvan.net/
+- [web frameworks overview](./web-frameworks-overview/)
 
 ---
 
